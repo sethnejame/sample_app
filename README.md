@@ -5,11 +5,11 @@ This is the sample application for
 Learn Web Development with Rails*](https://www.railstutorial.org/)
 by [Michael Hartl](http://www.michaelhartl.com/).
 
+## Visit the Sample App
 This particular sample app tutorial was followed and coded/deployed by
 Seth NeJame for CraftAcademy's summer break exercise.  The deployed
 website can be found on heroku via the following link:
 
-#### Sample App
 https://evening-depths-41186.herokuapp.com/
 
 ## License
